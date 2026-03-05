@@ -47,21 +47,182 @@ Status    : Open to Collaborate & Freelance
 
 ---
 
-<!-- PENTESTING VIBE / ATTACK SURFACE -->
+<!-- CURRENTLY HUNTING -->
+## `🎯 Currently Hunting`
+
+```bash
+root@alpha:~# cat /var/log/current_mission.log
+```
+
+| Status | Target | Focus |
+|--------|--------|-------|
+| 🟢 **ACTIVE** | PortSwigger Web Security Academy | Full Syllabus — All Labs |
+| 🟢 **ACTIVE** | PentesterLab | Recon Module — Completed ✅ |
+| 🟢 **ACTIVE** | TryHackMe | Web App Pentesting Rooms |
+| 🟡 **PREPARING** | HackerOne / Bugcrowd | First Bug Report — Coming Soon |
+| 🔵 **STUDYING** | OWASP Top 10 (2025) | Deep Dive — All 10 Vulnerabilities |
+
+```bash
+[*] Mission Status : Learning Phase  →  Bug Bounty Phase incoming...
+[*] Next Target    : Submit first valid bug report on HackerOne
+[*] Mindset        : Every lab solved = one step closer to a real CVE
+```
+
+---
+
+<!-- VULNERABILITIES — TWO CATEGORIES -->
 <div align="center">
 
-## `⚡ VULNERABILITIES I HUNT ⚡`
+## `🎯 Vulnerabilities I Hunt`
 
-![](https://img.shields.io/badge/XSS-Cross%20Site%20Scripting-FF0000?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/IDOR-Broken%20Access%20Control-CC0000?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/SQLi-SQL%20Injection-990000?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/SSRF-Server%20Side%20Request%20Forgery-FF3333?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/Auth%20Bypass-Authentication%20Flaws-AA0000?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/CSRF-Cross%20Site%20Request%20Forgery-DD0000?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/RCE-Remote%20Code%20Execution-880000?style=for-the-badge&logo=powershell&logoColor=white)
-![](https://img.shields.io/badge/LFI%20%2F%20RFI-File%20Inclusion-BB0000?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/Open%20Redirect-Unvalidated%20Redirects-FF6600?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/XXE-XML%20External%20Entity-CC2200?style=for-the-badge&logoColor=white)
+<!-- ═══════════ SERVER SIDE ═══════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,50:FF0000,100:1a0000&height=38&text=🖥️%20%20SERVER-SIDE%20VULNERABILITIES&fontColor=ffffff&fontSize=15&fontAlign=50"/>
+
+<br/><br/>
+
+<table border="0" cellspacing="6" cellpadding="0">
+<tr>
+
+<td align="center" bgcolor="#110000" width="175">
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql" width="42" height="42"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/SQL%20Injection-FF0000?style=flat-square&logoColor=white&labelColor=1a0000"/>
+<br/><br/>
+</td>
+
+<td align="center" bgcolor="#110000" width="175">
+<br/>
+<img src="https://skillicons.dev/icons?i=bash" width="42" height="42"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Command%20Injection-EE0000?style=flat-square&logoColor=white&labelColor=1a0000"/>
+<br/><br/>
+</td>
+
+<td align="center" bgcolor="#110000" width="175">
+<br/>
+<img src="https://skillicons.dev/icons?i=nginx" width="42" height="42"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Path%20Traversal-DD0000?style=flat-square&logoColor=white&labelColor=1a0000"/>
+<br/><br/>
+</td>
+
+<td align="center" bgcolor="#110000" width="175">
+<br/>
+<img src="https://skillicons.dev/icons?i=linux" width="42" height="42"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Access%20Control-CC0000?style=flat-square&logoColor=white&labelColor=1a0000"/>
+<br/><br/>
+</td>
+
+<td align="center" bgcolor="#110000" width="175">
+<br/>
+<img src="https://skillicons.dev/icons?i=python" width="42" height="42"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Business%20Logic-BB0000?style=flat-square&logoColor=white&labelColor=1a0000"/>
+<br/><br/>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" bgcolor="#110000" width="175">
+<br/>
+<img src="https://skillicons.dev/icons?i=aws" width="42" height="42"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/SSRF-FF2222?style=flat-square&logoColor=white&labelColor=1a0000"/>
+<br/><br/>
+</td>
+
+<td align="center" bgcolor="#110000" width="175">
+<br/>
+<img src="https://skillicons.dev/icons?i=graphql" width="42" height="42"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/XXE%20Injection-EE2222?style=flat-square&logoColor=white&labelColor=1a0000"/>
+<br/><br/>
+</td>
+
+<td align="center" bgcolor="#110000" width="175">
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="42" height="42"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/NoSQL%20Injection-DD2222?style=flat-square&logoColor=white&labelColor=1a0000"/>
+<br/><br/>
+</td>
+
+<td align="center" bgcolor="#110000" width="175">
+<br/>
+<img src="https://skillicons.dev/icons?i=postman" width="42" height="42"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/API%20Testing-CC2222?style=flat-square&logoColor=white&labelColor=1a0000"/>
+<br/><br/>
+</td>
+
+<td align="center" bgcolor="#110000" width="175">
+<br/>
+<img src="https://skillicons.dev/icons?i=docker" width="42" height="42"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/File%20Upload%20Vulns-BB2222?style=flat-square&logoColor=white&labelColor=1a0000"/>
+<br/><br/>
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════ CLIENT SIDE ═══════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,50:880000,100:1a0000&height=38&text=🌐%20%20CLIENT-SIDE%20VULNERABILITIES&fontColor=ffffff&fontSize=15&fontAlign=50"/>
+
+<br/><br/>
+
+<table border="0" cellspacing="6" cellpadding="0">
+<tr>
+
+<td align="center" bgcolor="#110000" width="175">
+<br/>
+<img src="https://skillicons.dev/icons?i=js" width="42" height="42"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Cross--Site%20Scripting%20XSS-FF0000?style=flat-square&logoColor=white&labelColor=1a0000"/>
+<br/><br/>
+</td>
+
+<td align="center" bgcolor="#110000" width="175">
+<br/>
+<img src="https://skillicons.dev/icons?i=html" width="42" height="42"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/CSRF-EE0000?style=flat-square&logoColor=white&labelColor=1a0000"/>
+<br/><br/>
+</td>
+
+<td align="center" bgcolor="#110000" width="175">
+<br/>
+<img src="https://skillicons.dev/icons?i=css" width="42" height="42"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Clickjacking-DD0000?style=flat-square&logoColor=white&labelColor=1a0000"/>
+<br/><br/>
+</td>
+
+<td align="center" bgcolor="#110000" width="175">
+<br/>
+<img src="https://skillicons.dev/icons?i=react" width="42" height="42"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/DOM--Based%20Vulns-CC0000?style=flat-square&logoColor=white&labelColor=1a0000"/>
+<br/><br/>
+</td>
+
+<td align="center" bgcolor="#110000" width="175">
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs" width="42" height="42"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/CORS%20Misconfig-BB0000?style=flat-square&logoColor=white&labelColor=1a0000"/>
+<br/><br/>
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 </div>
 
@@ -104,29 +265,36 @@ Status    : Open to Collaborate & Freelance
   <img src="https://img.shields.io/badge/John%20The%20Ripper-red?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-### 🔴 Environment & Languages
+### 🔴 Environment, Languages & Dev Tools
 <p>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
 ---
 
-<!-- BUG BOUNTY PLATFORMS -->
-## `🏆 Bug Bounty Platforms`
+<!-- BUG BOUNTY & LEARNING PLATFORMS -->
+## `🏆 Platforms`
 
 <div align="center">
 
+### 🔴 Bug Bounty
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com)
 [![Intigriti](https://img.shields.io/badge/Intigriti-1A1A2E?style=for-the-badge&logoColor=white)](https://intigriti.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com)
+
+### 🔴 Learning & Practice
+[![PortSwigger](https://img.shields.io/badge/PortSwigger%20Web%20Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/web-security)
+[![PentesterLab](https://img.shields.io/badge/PentesterLab-CC0000?style=for-the-badge&logoColor=white)](https://pentesterlab.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.com)
 
 </div>
 
@@ -137,12 +305,7 @@ Status    : Open to Collaborate & Freelance
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yesalphahere&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF4444&text_color=ffffff&bg_color=0D0D0D&border_color=FF0000" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yesalphahere&theme=dark&background=0D0D0D&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF6600&currStreakLabel=FF0000&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
-
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesalphahere&layout=compact&theme=dark&title_color=FF0000&text_color=ffffff&bg_color=0D0D0D&border_color=FF0000" />
+<img width="70%" src="https://streak-stats.demolab.com?user=yesalphahere&theme=dark&background=0D0D0D&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF6600&currStreakLabel=FF0000&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
 
 </div>
 
@@ -159,15 +322,25 @@ Status    : Open to Collaborate & Freelance
 
 ---
 
-<!-- HACKER QUOTE -->
+<!-- HACKER MANIFESTO -->
+## `📜 Manifesto`
+
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║   "The quieter you become, the more you are able to hear."   ║
-║                                             — Kali Linux     ║
+║  I don't break systems — I understand them better than       ║
+║  the people who built them.                                  ║
 ║                                                              ║
-║   "If there's logic, there's a flaw somewhere."  — Alpha    ║
+║  I am not a criminal. I am the one standing between          ║
+║  your data and the ones who want to steal it.                ║
+║                                                              ║
+║  Every lab solved = a real-world vulnerability understood.   ║
+║  Every report submitted = a system made safer.               ║
+║                                                              ║
+║  "The quieter you become, the more you are able to hear."    ║
+║                                              — Kali Linux    ║
+║  "If there's logic, there's a flaw somewhere."  — Alpha 🇵🇰  ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
