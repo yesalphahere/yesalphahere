@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Sabir Ali — Cybersecurity and Secure Systems</title>
+  <desc id="desc">A dark terminal-inspired banner with red and green accents, subtle grid lines, and a stylized command-line panel.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050709"/>
+      <stop offset="0.58" stop-color="#10090d"/>
+      <stop offset="1" stop-color="#06110d"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff4242"/>
+      <stop offset="0.56" stop-color="#8b0000"/>
+      <stop offset="1" stop-color="#39ff88"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8ea49b" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+    <filter id="glowRed" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="round"><rect x="0" y="0" width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <path d="M0 244H610L650 204H790" fill="none" stroke="#39ff88" stroke-opacity="0.22" stroke-width="2"/>
+    <path d="M0 260H570L630 200" fill="none" stroke="#ff4242" stroke-opacity="0.28" stroke-width="2"/>
+    <path d="M862 0L760 102H690" fill="none" stroke="#39ff88" stroke-opacity="0.22" stroke-width="2"/>
+    <path d="M1200 52H1105L1040 117" fill="none" stroke="#ff4242" stroke-opacity="0.3" stroke-width="2"/>
+    <circle cx="760" cy="102" r="4" fill="#39ff88"/>
+    <circle cx="1040" cy="117" r="4" fill="#ff4242"/>
+    <rect x="0" y="0" width="9" height="300" fill="url(#edge)"/>
+    <rect x="0" y="292" width="1200" height="8" fill="url(#edge)"/>
+
+    <g font-family="Consolas, 'Courier New', monospace">
+      <text x="70" y="52" fill="#39ff88" font-size="14" letter-spacing="3">[ PROFILE // SECURITY LAB ]</text>
+      <path d="M70 70H505" stroke="#ff4242" stroke-width="2"/>
+      <text x="68" y="139" fill="#ffffff" font-size="58" font-weight="700" letter-spacing="2">SABIR ALI</text>
+      <text x="72" y="178" fill="#cbd5d1" font-size="19" letter-spacing="1">COMPUTER SCIENCE  /  CYBERSECURITY</text>
+      <text x="72" y="216" fill="#39ff88" font-size="17">Curious about how systems fail — and how to secure them.</text>
+      <text x="72" y="265" fill="#73847d" font-size="13" letter-spacing="2">OBSERVE  →  TEST  →  VERIFY  →  DOCUMENT</text>
+    </g>
+
+    <g transform="translate(760 46)">
+      <rect x="0" y="0" width="365" height="202" rx="10" fill="#070b0a" stroke="#35453e" stroke-width="1.5"/>
+      <path d="M0 35H365" stroke="#35453e" stroke-width="1.5"/>
+      <circle cx="20" cy="18" r="5" fill="#ff4242"/>
+      <circle cx="39" cy="18" r="5" fill="#e1af48"/>
+      <circle cx="58" cy="18" r="5" fill="#39ff88"/>
+      <text x="83" y="23" fill="#95a59d" font-family="Consolas, 'Courier New', monospace" font-size="12">alpha@security:~</text>
+      <g font-family="Consolas, 'Courier New', monospace" font-size="15">
+        <text x="22" y="66" fill="#39ff88">$ inspect assumptions</text>
+        <text x="22" y="96" fill="#d6dfda">$ test access boundaries</text>
+        <text x="22" y="126" fill="#39ff88">$ verify the evidence</text>
+        <text x="22" y="156" fill="#d6dfda">$ write clear notes</text>
+        <rect x="22" y="173" width="9" height="17" fill="#39ff88" filter="url(#glowRed)"/>
+        <text x="42" y="187" fill="#71847a" font-size="12">session: learning in progress</text>
+      </g>
+    </g>
+  </g>
+</svg>
