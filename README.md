@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/profile-banner.png" width="100%" alt="Sabir Ali — Computer Science graduate exploring cybersecurity, AI security, and secure systems" />
+  <img src="profile-banner.png" width="100%" alt="Sabir Ali — Computer Science graduate exploring cybersecurity, AI security, and secure systems" />
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=850&color=39FF88&center=true&vCenter=true&width=900&height=50&lines=%24+whoami+%3D+Sabir+Ali;%24+identity+%3D+Computer+Science+Graduate;%24+focus+%3D+Cybersecurity+%26+Secure+Systems;%24+practice+%3D+Web+Security+Labs;%24+exploring+%3D+Network+%7C+IoT+%7C+AI+Security;%24+workflow+%3D+Learn+%E2%86%92+Test+%E2%86%92+Verify+%E2%86%92+Document" alt="Animated terminal introduction: who I am, what I practise, and what I am exploring" />
   <br />
@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/neon-divider.gif" width="100%" alt="Animated red, cyan, and green neon divider" />
+  <img src="./neon-divider.gif" width="100%" alt="Animated red, cyan, and green neon divider" />
 </p>
 
 ## 👋 Who I Am
@@ -33,7 +33,7 @@ I'm building my cybersecurity skills through **hands-on web security labs, techn
 <sub>My security work is currently centred on learning labs and projects. I don't present myself as a professional bug bounty hunter or an expert; I prefer to show what I've practised, built, and documented.</sub>
 
 <p align="center">
-  <img src="./assets/neon-divider.gif" width="100%" alt="Animated neon divider" />
+  <img src="neon-divider.gif" width="100%" alt="Animated neon divider" />
 </p>
 
 ## 🎯 Security Interests
@@ -123,7 +123,7 @@ I'm building my cybersecurity skills through **hands-on web security labs, techn
 </table>
 
 <p align="center">
-  <img src="./assets/neon-divider.gif" width="100%" alt="Animated neon divider" />
+  <img src="neon-divider.gif" width="100%" alt="Animated neon divider" />
 </p>
 
 ## 🧰 Tools on My Workbench
@@ -187,7 +187,7 @@ I think of tools as part of a workflow—not as a list of badges. I use them to 
 ## 🧭 My Security Workflow
 
 <p align="center">
-  <img src="./assets/security-pulse.gif" width="112" alt="Animated neon shield representing responsible security testing" />
+  <img src="security-pulse.gif" width="112" alt="Animated neon shield representing responsible security testing" />
 </p>
 
 <p align="center">
@@ -215,7 +215,7 @@ I think of tools as part of a workflow—not as a list of badges. I use them to 
 </p>
 
 <p align="center">
-  <img src="./assets/neon-divider.gif" width="100%" alt="Animated red, cyan, and green neon divider" />
+  <img src="neon-divider.gif" width="100%" alt="Animated red, cyan, and green neon divider" />
 </p>
 
 ## 🤝 Let's Connect
