@@ -19,7 +19,7 @@
 
 ## 👋 Who I Am
 
-Hey, I'm **Sabir Ali** — a Computer Science graduate who enjoys understanding how software, networks, and connected devices work, and how they can be made safer.
+Hey, I'm **Sabir Ali** a Computer Science graduate who enjoys understanding how software, networks, and connected devices work, and how they can be made safer.
 
 I'm building my cybersecurity skills through **hands-on web security labs, technical projects, and careful documentation**. My current practical focus is web application security, especially access control, authentication, and API behaviour. I'm also curious about network and system security, IoT/embedded devices, and AI security and privacy.
 
@@ -28,12 +28,6 @@ I'm building my cybersecurity skills through **hands-on web security labs, techn
   <img src="https://img.shields.io/badge/NEXT-Test-8B0000?style=flat-square" alt="Test" />
   <img src="https://img.shields.io/badge/THEN-Verify-087A45?style=flat-square" alt="Verify" />
   <img src="https://img.shields.io/badge/ALWAYS-Document-007C91?style=flat-square" alt="Document" />
-</p>
-
-<sub>My security work is currently centred on learning labs and projects. I don't present myself as a professional bug bounty hunter or an expert; I prefer to show what I've practised, built, and documented.</sub>
-
-<p align="center">
-  <img src="neon-divider.gif" width="100%" alt="Animated neon divider" />
 </p>
 
 ## 🎯 Security Interests
@@ -80,17 +74,14 @@ I'm building my cybersecurity skills through **hands-on web security labs, techn
     <td width="33%" align="center" valign="top">
       <img src="https://img.shields.io/badge/ACTIVE%20PRACTICE-Web%20Security-8B0000?style=for-the-badge" alt="Active practice: web security" />
       <p><b>Access control · Authentication · API testing</b></p>
-      <sub>Working through structured labs, inspecting requests and responses, and learning how to validate security assumptions.</sub>
     </td>
     <td width="33%" align="center" valign="top">
       <img src="https://img.shields.io/badge/BUILDING-Projects-087A45?style=for-the-badge" alt="Building technical projects" />
       <p><b>Python · Web applications · ESP32</b></p>
-      <sub>Connecting code, services, and devices while improving implementation and documentation.</sub>
     </td>
     <td width="33%" align="center" valign="top">
       <img src="https://img.shields.io/badge/EXPLORING-Secure%20Systems-007C91?style=for-the-badge" alt="Exploring secure systems" />
       <p><b>Network · IoT · AI privacy</b></p>
-      <sub>Strengthening fundamentals and exploring which security questions are worth investigating next.</sub>
     </td>
   </tr>
 </table>
