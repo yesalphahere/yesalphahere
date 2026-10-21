@@ -1,8 +1,3 @@
-<!--
-  GitHub Profile README | Sabir Ali
-  Upload this README.md and the complete assets/ folder to the root of:
-  https://github.com/yesalphahere
--->
 
 <div align="center">
   <img src="profile-banner.png" width="100%" alt="Sabir Ali — cybersecurity, AI, and secure systems" />
